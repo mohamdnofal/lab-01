@@ -1,0 +1,165 @@
+@media (min-width: 768px) {
+    body {
+        width: 960px;
+        margin: auto;
+    }
+    div {
+        border: 1px, solid, #050303;
+    }
+    .one {
+        width: 960px;
+        height: 100px;
+        border: 1px solid #050303;
+    }
+    
+    .toww {
+        float: left;
+        height: 600px;
+        width: 200px;
+        border-right: 1px solid #050303;
+        border-left: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+    }
+    .three {
+        float: left;
+        height: 200px;
+        width: 380px;
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+    }
+    .four {
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+        float: left;
+        height: 200px;
+        width: 380px;
+    }
+    .five {
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    .six {
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+        float: left;
+        height: 250px;
+        width: 190px;
+    }
+    .seven {
+        float: left;
+        height: 250px;
+        width: 190px;
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+    }
+    .eight {
+        float: left;
+        height: 250px;
+        width: 190px;
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+    }
+    .nine {
+        float: left;
+        height: 250px;
+        width: 190px;
+        border-right: 1px solid #050303;
+        border-bottom: 1px solid #050303;
+    }
+    .ten {
+        float: left;
+        width: 760px;
+        height: 150px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .tow {
+        float: left;
+    }
+}
+
+@media (min-width:480px)and (max-width:767px) {
+    body {
+        width: 480px;
+        margin: auto;
+    }
+    div {
+        background-color: #868383;
+        border: 1px, solid, #080808;
+        text-align: center;
+    }
+    header {
+        width: 480px;
+    }
+    .one {
+        width: 480px;
+        height: 75px;
+        border: 1px solid #080808;
+    }
+    .tow {
+        height: 150px;
+        width: 480px;
+        border-right: 1px solid #080808;
+        border-left: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .three {
+        height: 125px;
+        width: 480px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .four {
+        height: 125px;
+        width: 480px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .five {
+        float: left;
+        height: 250px;
+        width: 240px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .six {
+        float: left;
+        height: 250px;
+        width: 240px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .seven {
+        float: left;
+        height: 250px;
+        width: 240px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .eight {
+        float: left;
+        height: 250px;
+        width: 240px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .nine {
+        float: left;
+        width: 480px;
+        height: 80px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    .ten {
+        background-color: #868383;
+        height: 500px;
+        border-right: 1px solid #080808;
+        border-bottom: 1px solid #080808;
+    }
+    div.ten p{
+        padding-top: 20px;
+    }
+}
