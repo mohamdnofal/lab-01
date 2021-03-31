@@ -2,17 +2,29 @@
     box-sizing: border-box;
     text-transform: capitalize;
     font-size: xx-large;
-    text-align: center;
-} 
+    flex-wrap: wrap;
+    display: flex;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 p {
     padding: 28px;
+    margin: auto;
 }
-html  {
-    color : black;
+
+html {
+    color: black;
 }
 
 div {
-    background: #5f5d5d;
-    
+    background: #737739;
+}
+
+title, script {
+    display: none;
 }
