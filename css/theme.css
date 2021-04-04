@@ -1,0 +1,9 @@
+@media (min-width:480px)and (max-width:767px) {
+    div {
+        background-color: #868383;
+    }
+    .ten {
+        background-color: #868383;
+    }
+    
+}
