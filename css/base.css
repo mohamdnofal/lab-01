@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-size: xx-large;
+    
+} 
+
+html  {
+    color : black;
+}
+div {
+    background: #5f5d5d;
+    
+}
+
+p{
+    font-size: xx-large;
+    text-align:center;
+}
