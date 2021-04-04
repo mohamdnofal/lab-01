@@ -1,3 +1,4 @@
+
 @media (min-width: 768px) {
     body {
         width: 960px;
@@ -161,4 +162,35 @@
         border-bottom: 1px solid #080808;
     }
 
+
+* {
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-size: xx-large;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    padding: 28px;
+    margin: auto;
+}
+
+html {
+    color: black;
+}
+
+div {
+    background: #737739;
+
+}
+
+title, script {
+    display: none;
 }
